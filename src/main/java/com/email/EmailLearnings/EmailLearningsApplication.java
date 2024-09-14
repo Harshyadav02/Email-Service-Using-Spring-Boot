@@ -18,8 +18,8 @@ public class EmailLearningsApplication {
 
 	@Autowired
 	public void sendMail() {
-		String to = "reciver";
-		// String to = "yadavharsh0529@gmail.com";
+		String to = "mail";
+		
 		String subject = "subject";
 		String body = "body";
 
